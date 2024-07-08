@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: nodeapp-config
   namespace: nodeapp
-#data:
+data: {}
